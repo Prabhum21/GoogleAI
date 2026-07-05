@@ -1,0 +1,13 @@
+{
+  "/_global-error/page": "/_global-error",
+  "/_not-found/page": "/_not-found",
+  "/admin/page": "/admin",
+  "/alerts/page": "/alerts",
+  "/analytics/page": "/analytics",
+  "/assistant/page": "/assistant",
+  "/dashboard/page": "/dashboard",
+  "/map/page": "/map",
+  "/page": "/",
+  "/reports/page": "/reports",
+  "/settings/page": "/settings"
+}
