@@ -1,5 +1,7 @@
 # CivicMind AI
 
+**🔗 [Live Demo](https://wondrous-concha-4ad6b0.netlify.app) | 🐙 [GitHub Repository](https://github.com/Prabhum21/GoogleAI)**
+
 CivicMind AI is a Decision Intelligence Platform for citizens and city administrators. It leverages AI (Google Gemini 2.0 Flash) to analyze civic data and provide actionable insights, alerts, and recommendations to users in real-time.
 
 ## 🌟 Key Features
